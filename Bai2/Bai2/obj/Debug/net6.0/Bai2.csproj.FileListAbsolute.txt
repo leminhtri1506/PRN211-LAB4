@@ -1,0 +1,14 @@
+D:\Visual\LAB4\Bai2\Bai2\bin\Debug\net6.0\Bai2.exe
+D:\Visual\LAB4\Bai2\Bai2\bin\Debug\net6.0\Bai2.deps.json
+D:\Visual\LAB4\Bai2\Bai2\bin\Debug\net6.0\Bai2.runtimeconfig.json
+D:\Visual\LAB4\Bai2\Bai2\bin\Debug\net6.0\Bai2.dll
+D:\Visual\LAB4\Bai2\Bai2\bin\Debug\net6.0\Bai2.pdb
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfoInputs.cache
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfo.cs
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.csproj.CoreCompileInputs.cache
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.dll
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\refint\Bai2.dll
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.pdb
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\Bai2.genruntimeconfig.cache
+D:\Visual\LAB4\Bai2\Bai2\obj\Debug\net6.0\ref\Bai2.dll
